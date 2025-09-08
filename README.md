@@ -18,21 +18,8 @@ Optional AI-powered fallback for unlisted questions
 
 Responsive chat UI
 
-📂 Project Structure
-task1_chatbot/
-│
-├── index.html        # Chat UI
-├── style.css         # Styling
-├── script.js         # Chat logic
-└── README.md
-
-🔧 Setup & Run
-
-Clone repo
-
 git clone <repo-url>
 cd task1_chatbot
-
 
 Run locally
 
